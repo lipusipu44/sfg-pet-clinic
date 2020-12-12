@@ -1,5 +1,9 @@
 package com.anilpatro044.sfgpetclinic.model;
 
+/**
+ * @author anildesktop
+ *
+ */
 public class Person {
 	
 	private String firstName;
